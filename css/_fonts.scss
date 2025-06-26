@@ -4,3 +4,29 @@
   font-weight: normal;
   font-style: normal;
 }
+
+
+
+@font-face {
+    font-family: 'FS Emeric Core';
+    src: url('/fonts/FSEmeric-Core.eot');
+    src: url('/fonts/FSEmeric-Core.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/FSEmeric-Core.woff2') format('woff2'),
+        url('/fonts/FSEmeric-Core.woff') format('woff'),
+        url('/fonts/FSEmeric-Core.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FS Emeric';
+    src: url('/fonts/FSEmeric-Bold.eot');
+    src: url('/fonts/FSEmeric-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/FSEmeric-Bold.woff2') format('woff2'),
+        url('/fonts/FSEmeric-Bold.woff') format('woff'),
+        url('/fonts/FSEmeric-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}

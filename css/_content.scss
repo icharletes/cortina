@@ -95,8 +95,14 @@ h1{
     color:#fff;
     font-size: 32px;//80
     margin:0;
+    font-family: 'FS Emeric Core';
+    font-weight: normal;
+    
+    .textnormal{
+        font-family: 'FS Emeric';
+        font-weight: bold;
+    }
 
-    .textnormal{font-weight: 100;}
     @media(min-width:480px){
         font-size: 38px;
     }

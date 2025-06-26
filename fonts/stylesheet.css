@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'FS Emeric Core';
+    src: url('FSEmeric-Core.eot');
+    src: url('FSEmeric-Core.eot?#iefix') format('embedded-opentype'),
+        url('FSEmeric-Core.woff2') format('woff2'),
+        url('FSEmeric-Core.woff') format('woff'),
+        url('FSEmeric-Core.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FS Emeric';
+    src: url('FSEmeric-Bold.eot');
+    src: url('FSEmeric-Bold.eot?#iefix') format('embedded-opentype'),
+        url('FSEmeric-Bold.woff2') format('woff2'),
+        url('FSEmeric-Bold.woff') format('woff'),
+        url('FSEmeric-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
